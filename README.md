@@ -1,2 +1,2 @@
-# Repositorio-Versionado
- Repositorio versionado Git-Github
+# Repositorio Versionado
+ Repositorio versionado Git e Github
